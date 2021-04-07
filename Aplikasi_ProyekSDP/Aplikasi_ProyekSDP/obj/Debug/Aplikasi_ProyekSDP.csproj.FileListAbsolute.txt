@@ -1,0 +1,74 @@
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\bin\Debug\Aplikasi_ProyekSDP.exe.config
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\bin\Debug\Aplikasi_ProyekSDP.exe
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\bin\Debug\Aplikasi_ProyekSDP.pdb
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.csprojAssemblyReference.cache
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\MainWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\OrderWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\App.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP_MarkupCompile.cache
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP_MarkupCompile.lref
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\MainWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\OrderWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.g.resources
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.Properties.Resources.resources
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.csproj.GenerateResource.cache
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.csproj.CoreCompileInputs.cache
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.exe
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.pdb
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ConfirmpayWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ConfirmpayWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ManagerWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\MasterWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ManagerWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\MasterWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ProfileWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ProfileWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\InsertuserWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\InsertuserWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\UpdateuserWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\UpdateuserWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ProductWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ProductWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\SalesWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\SalesWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\InsertproductWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\UpdateWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\InsertproductWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\UpdateWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\bin\Debug\Aplikasi_ProyekSDP.exe.config
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\bin\Debug\Aplikasi_ProyekSDP.exe
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\bin\Debug\Aplikasi_ProyekSDP.pdb
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.csprojAssemblyReference.cache
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ConfirmpayWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\InsertproductWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\InsertuserWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\MainWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ManagerWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\MasterWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\OrderWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ProductWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ProfileWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\SalesWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\UpdateuserWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\UpdateWindow.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\App.g.cs
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP_MarkupCompile.cache
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP_MarkupCompile.lref
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ConfirmpayWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\InsertproductWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\InsertuserWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\MainWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ManagerWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\MasterWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\OrderWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ProductWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\ProfileWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\SalesWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\UpdateuserWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\UpdateWindow.baml
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.g.resources
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.Properties.Resources.resources
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.csproj.GenerateResource.cache
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.csproj.CoreCompileInputs.cache
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.exe
+Y:\Users\SCP-999\Storage\Desktop\Proyek SDP\Aplikasi\Aplikasi_ProyekSDP\Aplikasi_ProyekSDP\obj\Debug\Aplikasi_ProyekSDP.pdb

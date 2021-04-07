@@ -1,0 +1,98 @@
+﻿<Window x:Class="Aplikasi_ProyekSDP.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplikasi_ProyekSDP"
+        mc:Ignorable="d"
+        Title="OrderWindow" Height="747.5" Width="1266" Background="#FF759AB9">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="12.png"/>
+        </Grid.Background>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="648" Margin="134,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="1078"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="122" Margin="594,188,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="122" Margin="374,186,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="122" Margin="154,186,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="124" Margin="594,468,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="124" Margin="374,466,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="124" Margin="154,466,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="124" Margin="154,324,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="124" Margin="374,324,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="124" Margin="594,326,0,0" VerticalAlignment="Top" Width="202" Background="White"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="50" Margin="154,50,0,0" VerticalAlignment="Top" Width="200" CornerRadius="10,10,10,10" Background="White">
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Sudarmaji Candra" VerticalAlignment="Top" FontSize="16" Margin="9,1,0,0" Width="180" TextAlignment="Center"/>
+        </Border>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="154,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="314"/>
+        <Button x:Name="search_btn" Content="Search" HorizontalAlignment="Left" Margin="474,120,0,0" VerticalAlignment="Top" Width="74" Height="24"/>
+        <Button Content="All Items" HorizontalAlignment="Left" VerticalAlignment="Top" Width="74" Margin="154,148,0,0"/>
+        <Button Content="Food" HorizontalAlignment="Left" Margin="234,148,0,0" VerticalAlignment="Top" Width="74"/>
+        <Button Content="Cold Drinks" HorizontalAlignment="Left" Margin="314,148,0,0" VerticalAlignment="Top" Width="74"/>
+        <Button Content="Hot Drinks" HorizontalAlignment="Left" Margin="394,148,0,0" VerticalAlignment="Top" Width="74"/>
+        <Button x:Name="clearall_btn" Content="Clear All" HorizontalAlignment="Left" Margin="902,636,0,0" VerticalAlignment="Top" Width="84" Height="30" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="958,52,0,0" TextWrapping="Wrap" Text="LIST ORDER" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="-0.01,0.638" FontWeight="Bold"/>
+        <ListBox HorizontalAlignment="Left" Height="400" Margin="812,94,0,0" VerticalAlignment="Top" Width="382">
+            <ListBoxItem Content="Nama Barang - Jumlah" FontSize="18"/>
+            <ListBoxItem Content="Nama Barang - Jumlah" FontSize="18"/>
+        </ListBox>
+        <Button x:Name="remove_btn" Content="Remove" HorizontalAlignment="Left" Margin="812,636,0,0" VerticalAlignment="Top" Width="84" Height="30" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="812,512,0,0" TextWrapping="Wrap" Text="Subtotal" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="812,564,0,0" TextWrapping="Wrap" Text="Discount" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="812,594,0,0" TextWrapping="Wrap" Text="Total" VerticalAlignment="Top" FontWeight="Bold" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="958,512,0,0" TextWrapping="Wrap" Text="Rp. -" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="958,564,0,0" TextWrapping="Wrap" Text="Rp. -" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="-1.053,0.376"/>
+        <TextBlock HorizontalAlignment="Left" Margin="958,590,0,0" TextWrapping="Wrap" Text="Rp.-" VerticalAlignment="Top" FontWeight="Bold" FontSize="20" RenderTransformOrigin="0.257,0.113"/>
+        <Button x:Name="pay_btn" Content="Pay" HorizontalAlignment="Left" Margin="992,636,0,0" VerticalAlignment="Top" Width="202" FontSize="16" Height="30" Click="pay_btn_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="812,538,0,0" TextWrapping="Wrap" Text="Tax 10%" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="958,538,0,0" TextWrapping="Wrap" Text="Rp. -" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="-1.053,0.376"/>
+        <TextBlock HorizontalAlignment="Left" Margin="214,76,0,0" TextWrapping="Wrap" Text="Cashier - #C001" VerticalAlignment="Top"/>
+        <Image HorizontalAlignment="Left" Height="28" Margin="17,643,0,0" VerticalAlignment="Top" Width="30" Source="account-logout-24.png"/>
+        <Button x:Name="logout_btn" Content="Logout" HorizontalAlignment="Left" Margin="11,633,0,0" VerticalAlignment="Top" Width="118" Height="48" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="logout_btn_Click" FontSize="14"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="154,188,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="154,214,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="154,270,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="194,242,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="154,240,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="374,188,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="374,214,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="374,270,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="414,242,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="374,240,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="594,190,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="594,216,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="594,272,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="634,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="594,242,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="154,326,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="154,352,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="154,410,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="194,382,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="154,378,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="374,326,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="374,352,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="374,410,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="414,382,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="374,378,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="594,328,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="594,354,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="594,412,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="634,384,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="594,380,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="154,468,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="154,494,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="154,552,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="194,524,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="154,520,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="374,468,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="374,494,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="374,552,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="414,524,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="56" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="374,520,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nama Barang" HorizontalAlignment="Left" Margin="594,470,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rp.-" HorizontalAlignment="Left" Margin="594,496,0,0" VerticalAlignment="Top"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="594,554,0,0" VerticalAlignment="Top" Width="202" Height="38" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="634,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" Text="1"/>
+        <Label Content="Qty :" HorizontalAlignment="Left" Margin="594,522,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="profile" Content="profile" HorizontalAlignment="Left" Margin="154,50,0,0" VerticalAlignment="Top" Width="200" BorderBrush="{x:Null}" Foreground="{x:Null}" Background="{x:Null}" Height="50" Click="profile_Click" FontSize="20"/>
+    </Grid>
+</Window>
